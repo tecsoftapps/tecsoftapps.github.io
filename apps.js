@@ -6,9 +6,9 @@ export const apps = [
     genre: 'Photo & Video'
   },
   {
-    name: 'Pinoy Lingo for iMessage',
-    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/bb/88/a3/bb88a30e-05d6-f019-57dc-81706a853cf9/iMessage_App_Icon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-181-0-0-0-0.png/460x344sr.png',
-    url: 'https://apps.apple.com/us/app/pinoy-lingo-for-imessage/id1170816943?uo=4',
+    name: 'Pinoy Lingo Sticker Maker',
+    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/52/bf/ad52bfda-cb7a-b606-866e-3a4de5bee9dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/540x540bb.webp',
+    url: 'https://apple.co/46XvuPH',
     genre: 'Stickers'
   },
   {
