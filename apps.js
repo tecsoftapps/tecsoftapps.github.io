@@ -1,5 +1,5 @@
 export const apps = [
-    {
+  {
     name: 'Mp3 to Mp4: Audio to Video',
     artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/05/6b/5a056b0d-cfc1-97e6-d39a-93a8e4b77c1e/AppIcon-0-0-85-220-0-5-0-2x.png/540x540bb.jpg',
     url: 'https://apple.co/3P9bvaR',
@@ -39,6 +39,18 @@ export const apps = [
     name: 'Chinese Blessings',
     artwork: 'https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/2b/71/83/2b7183e1-a63e-ca45-9844-74d65eca8d7b/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-3-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/460x344sr.png',
     url: 'https://apps.apple.com/us/app/chinese-blessings/id1495567535?ls=1',
+    genre: 'Stickers'
+  },
+  {
+    name: 'Chinese New Year Blessings',
+    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/c8/f8/dac8f855-08f9-1ffb-f1bf-c55cb397513d/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-3-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/460x344sr.png',
+    url: 'https://apps.apple.com/us/app/chinese-new-year-blessings/id1494554899?ls=1',
+    genre: 'Stickers'
+  },
+  {
+    name: 'Everyday Greetings',
+    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/55/c4/5655c44a-fad0-0218-f035-0c14700f6862/AppIcon-0-0-1x_U007emarketing-0-0-85-181.png/400x300bb.webp',
+    url: 'https://apps.apple.com/us/app/everyday-greetings/id1165323161',
     genre: 'Stickers'
   },
   {
@@ -113,12 +125,6 @@ export const apps = [
     genre: 'Stickers'
   },
   {
-    name: 'Everyday Greetings and Texts',
-    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/70/f5/49/70f549f9-449b-199b-b709-bc2256da494c/iMessage_App_Icon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-181-0-0-0-0.png/460x344sr.png',
-    url: 'https://apps.apple.com/us/app/everyday-greetings-and-texts/id1165324424?uo=4',
-    genre: 'Stickers'
-  },
-  {
     name: 'Pinoy Talk',
     artwork: 'https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/09/7a/3c/097a3cfc-d7ad-5d3a-a465-c847bac2e649/iMessage_App_Icon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-181-0-0-0-0.png/460x344sr.png',
     url: 'https://apps.apple.com/us/app/pinoy-talk/id1387746990?uo=4',
@@ -128,12 +134,6 @@ export const apps = [
     name: "It's a Boy! iMessage Stickers",
     artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/92/aa/12/92aa124d-a91f-2602-88b7-f0b33d32b4e2/iMessage_App_Icon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-181-0-0-0-0.png/460x344sr.png',
     url: 'https://apps.apple.com/us/app/its-a-boy-imessage-stickers/id1387706378?ls=1',
-    genre: 'Stickers'
-  },
-  {
-    name: 'Chinese New Year Blessings',
-    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/c8/f8/dac8f855-08f9-1ffb-f1bf-c55cb397513d/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-3-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/460x344sr.png',
-    url: 'https://apps.apple.com/us/app/chinese-new-year-blessings/id1494554899?ls=1',
     genre: 'Stickers'
   }
 ];
